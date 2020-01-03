@@ -41,6 +41,7 @@ cc_binary {
         "libhwbinder",
         "liblog",
         "libselinux",
+        "libselinux_stubs",
         "libutils",
         "libvintf",
     ],
